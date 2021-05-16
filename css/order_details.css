@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serifs;
+    font-size: 16px;
+    height:100%;
+  }
+.obg{
+    background-color:rgb(199, 194, 194);
+
+  }
+.active-cyan-4 input[type=tel]{
+border:2px solid #17a2b8;
+box-shadow: 0 1px 0 0#17a2b8;
+}
+table{
+  width:80%;
+}
+
+.table{
+  width:80%;
+    color:black;
+    font-weight:bold;
+}
+
+.btn-custom{
+    background:black ;
+    border-color:black;
+    color:#fff;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .btn-custom:focus,
+  .btn-custom:hover,
+  .btn-custom:active,
+  .btn-custom:active:focus{
+    background:white;
+    border-color:black;
+    color:black;
+  }
+  .btn-custom:focus{
+    box-shadow: 0 0 0 0.2rem black;
+  }
+
+  .no_order h1{
+    color:black;
+    font-size:5rem;
+    font-weight:700;
+  }
+
+  form{
+    margin: 0;
+  }

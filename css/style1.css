@@ -1,0 +1,13 @@
+hr{
+    margin:20px;
+    border:solid;
+}
+
+@media (min-width: 768px){
+    .border-container{
+    width:60%;
+    padding:30px;
+    border:2px double black;
+    border-radius:10px;
+}
+}
